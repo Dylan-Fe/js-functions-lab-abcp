@@ -4,6 +4,7 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(name) {
+  var comp = "Happy " + ${name}
   return "Happy holidays, " + ${name} + "!";
 }
 
